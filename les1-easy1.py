@@ -33,3 +33,4 @@ print("Число -", a)
 print("Вариант 3:")
 for i in range(len((str(a)))): print(str(a)[i])
 
+#
