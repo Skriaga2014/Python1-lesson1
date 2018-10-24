@@ -22,3 +22,4 @@ x1 = (-b + math.sqrt(d)) / (a * 2)
 x2 = (-b - math.sqrt(d)) / (a * 2)
 
 print ("Корни уравнения:",x1,x2)
+
